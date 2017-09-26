@@ -36,10 +36,10 @@
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 306,
-            "modifiedTime": 1506440074000,
-            "changeTime": 1506440074000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "size": 272,
+            "modifiedTime": 1506379200000,
+            "changeTime": 1506379200000,
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
         }
     ],
     [
@@ -47,13 +47,14 @@
         {
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1506439720000,
-            "changeTime": 1506439720000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 68,
+            "modifiedTime": 1506359683000,
+            "changeTime": 1506359683000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -61,13 +62,14 @@
         {
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation",
             "isDirectory": true,
-            "size": 340,
-            "modifiedTime": 1506378838000,
-            "changeTime": 1506378838000,
-            "contentHash": "7775a52ad15533779186311b6ba129ab7ae84ceb",
+            "size": 238,
+            "modifiedTime": 1506360901000,
+            "changeTime": 1506360901000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -710,53 +712,53 @@
     [
         "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10476,
+            "modifiedTime": 1506370919000,
+            "changeTime": 1506370919000,
+            "contentHash": "b7eb0e8944a3429ae106b5751e08dce4b00e23ed",
             "isMetadataFile": true,
-            "size": 5999,
-            "modifiedTime": 1506440074000,
-            "changeTime": 1506440074000,
-            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c"
+            "state": "u"
         }
     ],
     [
         "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10140,
+            "modifiedTime": 1506370919000,
+            "changeTime": 1506370919000,
+            "contentHash": "6f2c71cbf02851393eb071c385354953a88b5db0",
             "isMetadataFile": true,
-            "size": 5663,
-            "modifiedTime": 1506440074000,
-            "changeTime": 1506440074000,
-            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc"
+            "state": "u"
         }
     ],
     [
         "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10136,
+            "modifiedTime": 1506370919000,
+            "changeTime": 1506370919000,
+            "contentHash": "5d37e7ec4d49f2782cdc5ee0cb693e27ad2140ec",
             "isMetadataFile": true,
-            "size": 5659,
-            "modifiedTime": 1506440074000,
-            "changeTime": 1506440074000,
-            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290"
+            "state": "u"
         }
     ],
     [
         "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 22710,
+            "modifiedTime": 1506370919000,
+            "changeTime": 1506370919000,
+            "contentHash": "f993ec13ca1905f7df2b1c6e119a657cfecd538f",
             "isMetadataFile": true,
-            "size": 18234,
-            "modifiedTime": 1506440074000,
-            "changeTime": 1506440074000,
-            "contentHash": "b37f07ff1509c337990679c74ef80f1614599a8d"
+            "state": "u"
         }
     ],
     [
@@ -879,157 +881,40 @@
     [
         "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1506379200000,
             "changeTime": 1506379200000,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 294,
             "modifiedTime": 1506439651000,
             "changeTime": 1506439651000,
-            "contentHash": "c2735dfaf4ae2b83d02b031d8fe8f5822cdd590d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c2735dfaf4ae2b83d02b031d8fe8f5822cdd590d"
         }
     ],
     [
         "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1506379200000,
             "changeTime": 1506379200000,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1506439720000,
-            "changeTime": 1506439720000,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1506439883000,
-            "changeTime": 1506439883000,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1506439789000,
-            "changeTime": 1506439789000,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 107,
-            "modifiedTime": 1506439871000,
-            "changeTime": 1506439871000,
-            "contentHash": "a5c9b9b3a4ca13e6f26fff87b25355434a0e9dfb",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1506439789000,
-            "changeTime": 1506439789000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1506439789000,
-            "changeTime": 1506439789000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1506439789000,
-            "changeTime": 1506439789000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 267,
-            "modifiedTime": 1506440074000,
-            "changeTime": 1506440074000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
-        }
-    ],
-    [
-        "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/Users/vgerasimov/SFDX/Projects/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1506440074000,
-            "changeTime": 1506440074000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
